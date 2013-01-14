@@ -2,10 +2,10 @@
 \alias{CarbonExample3Data}
 \docType{data}
 \title{
-data from Carbon, C. C. (2013). BiDimRegression: Bidimensional regression modeling using R. Journal of Statistical Software
+Data from Carbon, C. C. (2013). BiDimRegression: Bidimensional regression modeling using R. Journal of Statistical Software
 }
 \description{
-example 3 focuses on demonstrating how good a cognitive map recalculated from averaged cognitive distance data fits with a related real map
+Example 3 focuses on demonstrating how good a cognitive map recalculated from averaged cognitive distance data fits with a related real map
 }
 \usage{data(CarbonExample3Data)}
 \format{

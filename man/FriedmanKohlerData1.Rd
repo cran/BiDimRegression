@@ -2,10 +2,10 @@
 \alias{FriedmanKohlerData1}
 \docType{data}
 \title{
-data from Friedman, A., & Kohler, B. (2003). Bidimensional regression: Assessing the configural similarity and accuracy of cognitive maps and other    two-dimensional data sets. Psychological Methods, 8(4), 468-491.
+Data from Friedman, A., & Kohler, B. (2003). Bidimensional regression: Assessing the configural similarity and accuracy of cognitive maps and other    two-dimensional data sets. Psychological Methods, 8(4), 468-491.
 }
 \description{
-data from Friedman, A., & Kohler, B. (2003). Bidimensional regression: Assessing the configural similarity and accuracy of cognitive maps and other  two-dimensional data sets. Psychological Methods, 8(4), 468-491.
+Data from Friedman, A., & Kohler, B. (2003). Bidimensional regression: Assessing the configural similarity and accuracy of cognitive maps and other  two-dimensional data sets. Psychological Methods, 8(4), 468-491.
 }
 \usage{data(FriedmanKohlerData1)}
 \format{

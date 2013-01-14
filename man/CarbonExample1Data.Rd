@@ -2,10 +2,10 @@
 \alias{CarbonExample1Data}
 \docType{data}
 \title{
-data from Carbon, C. C. (2013). BiDimRegression: Bidimensional regression modeling using R. Journal of Statistical Software
+Data from Carbon, C. C. (2013). BiDimRegression: Bidimensional regression modeling using R. Journal of Statistical Software
 }
 \description{
- example 1 from the domain of aesthetics to show how the method can be utilized for assessing the similarity of two portrayed persons, actually the Mona Lisa in the world famous Louvre version and the only recently re-discovered Prado version
+Example 1 from the domain of aesthetics to show how the method can be utilized for assessing the similarity of two portrayed persons, actually the Mona Lisa in the world famous Louvre version and the only recently re-discovered Prado version
 }
 \usage{data(CarbonExample1Data)}
 \format{

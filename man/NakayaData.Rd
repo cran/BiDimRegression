@@ -2,10 +2,10 @@
 \alias{NakayaData}
 \docType{data}
 \title{
-data from Nakaya, T. (1997). Statistical inferences in bidimensional regression models. Geographical Analysis, 29(2), 169-186.
+Data from Nakaya, T. (1997). Statistical inferences in bidimensional regression models. Geographical Analysis, 29(2), 169-186.
 }
 \description{
-data from Nakaya, T. (1997). Statistical inferences in bidimensional regression models. Geographical Analysis, 29(2), 169-186.
+Data from Nakaya, T. (1997). Statistical inferences in bidimensional regression models. Geographical Analysis, 29(2), 169-186.
 }
 \usage{data(NakayaData)}
 \format{
