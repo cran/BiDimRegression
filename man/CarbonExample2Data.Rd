@@ -2,7 +2,8 @@
 \alias{CarbonExample2Data}
 \docType{data}
 \title{
-Data from Carbon, C. C. (2013). BiDimRegression: Bidimensional regression modeling using R. Journal of Statistical Software
+Data from Carbon, C. C. (2013). BiDimRegression: Bidimensional Regression Modeling Using R. \\
+Journal of Statistical Software, Code Snippets, 52(1), 1-11 (URL http://www.jstatsoft.org/v52/c01/)\\
 }
 \description{
 Example 2 originates from the area of geography and inspects the accuracy of different maps of the city of Paris which were created over the last 350 years as compared to a recent map}

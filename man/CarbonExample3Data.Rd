@@ -2,7 +2,8 @@
 \alias{CarbonExample3Data}
 \docType{data}
 \title{
-Data from Carbon, C. C. (2013). BiDimRegression: Bidimensional regression modeling using R. Journal of Statistical Software
+Data from Carbon, C. C. (2013). BiDimRegression: Bidimensional Regression Modeling Using R. \\
+Journal of Statistical Software, Code Snippets, 52(1), 1-11 (URL http://www.jstatsoft.org/v52/c01/)\\
 }
 \description{
 Example 3 focuses on demonstrating how good a cognitive map recalculated from averaged cognitive distance data fits with a related real map

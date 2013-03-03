@@ -1,0 +1,19 @@
+citHeader("To cite BiDimRegression in publications use:")
+
+citEntry(entry = "Article",
+  title        = "{BiDimRegression}: Bidimensional Regression Modeling Using {R}",
+  author       = personList(as.person("Claus-Christian Carbon")),
+  journal      = "Journal of Statistical Software, Code Snippets",
+  year         = "2013",
+  volume       = "52",
+  number       = "1",
+  pages        = "1--11",
+  url          = "http://www.jstatsoft.org/v52/c01/",
+
+  textVersion  =
+  paste("Claus-Christian Carbon (2013).",
+        "BiDimRegression: Bidimensional Regression Modeling Using R.",
+        "Journal of Statistical Software, Code Snippets, 52(1), 1-11.",
+        "URL http://www.jstatsoft.org/v52/c01/.")
+)
+

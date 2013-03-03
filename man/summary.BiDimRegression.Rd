@@ -8,7 +8,8 @@ function to provide a summary of the results of BiDimRegression
 function to provide a summary of the results of BiDimRegression
 }
 \references{
-Carbon, C. C. (2013). BiDimRegression: Bidimensional regression modeling using R. Journal of Statistical Software.
+Data from Carbon, C. C. (2013). BiDimRegression: Bidimensional Regression Modeling Using R. \\
+Journal of Statistical Software, Code Snippets, 52(1), 1-11 (URL http://www.jstatsoft.org/v52/c01/)\\
 }
 \author{
 Claus-Christian Carbon

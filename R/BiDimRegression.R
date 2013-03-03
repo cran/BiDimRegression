@@ -2,7 +2,7 @@ BiDimRegression <-
 function (coord) 
 {
 	# function BiDimRegression - 
-	#    BiDimensional Regression (Version 1.03)
+	#    BiDimensional Regression (Version 1.0-5)
 
 	# PURPOSE: calculates the bidimensional regression
 	#          between two 2D configurations
@@ -46,6 +46,8 @@ function (coord)
 	#
 	# -------------------------------------------------------- 
 	# REFERENCES: 
+	#   Carbon, C. C. (2013). BiDimRegression: Bidimensional Regression Modeling Using R. Journal of Statistical
+ 	#     Software, Code Snippets, 52(1), 1-11 (URL http://www.jstatsoft.org/v52/c01/)\\
 	#   Tobler, W. [R.](1965). Computation of the corresponding of geographical patterns. Papers of the Regional Science Association, 15, 131-139.
 	#   Tobler, W. R. (1966). Medieval distortions: Projections of ancient maps. Annals of the Association of American Geographers, 56(2), 351-360.
 	#   Tobler, W. R. (1994). Bidimensional regression. Geographical Analysis, 26(3), 187-212.
@@ -379,7 +381,7 @@ function (coord)
 	invisible(results_sum)   # returns the measures of the bidimensional regression
 	
 	############################################################################################################
-	# Copyright ©2012. Claus-Christian Carbon (CCC). All Rights Reserved. 
+	# Copyright ©2012-2013. Claus-Christian Carbon (CCC). All Rights Reserved. 
 	# Permission to use, copy, modify, and distribute this software and its documentation for 
 	# educational, research, and not-for-profit purposes, without fee and without a signed licensing agreement,
 	# is hereby granted, provided that the above copyright notice, this paragraph and the following 
