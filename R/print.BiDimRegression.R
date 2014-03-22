@@ -2,7 +2,7 @@ print.BiDimRegression <-
 function(x, ...)
 {
 	# version of the routine
-	verRoutine <- "1.0"
+	verRoutine <- "1.0.6"
 
       # ---- OUTPUT the data ---- 
 	for(iOutputLoop in 0:1) {

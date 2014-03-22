@@ -2,7 +2,7 @@ BiDimRegression <-
 function (coord) 
 {
 	# function BiDimRegression - 
-	#    BiDimensional Regression (Version 1.0-5)
+	#    BiDimensional Regression (Version 1.0.6)
 
 	# PURPOSE: calculates the bidimensional regression
 	#          between two 2D configurations
