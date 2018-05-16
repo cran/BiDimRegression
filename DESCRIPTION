@@ -1,18 +1,24 @@
 Package: BiDimRegression
-Version: 1.0.6
-Date: 2014-03-22
-Title: Calculates the bidimensional regression between two 2D
-        configurations
-Authors@R: person("Claus-Christian", "Carbon", role = c("aut", "cre"), email ="ccc@experimental-psychology.com")
-Author: Claus-Christian Carbon
-Maintainer: Claus-Christian Carbon <ccc@experimental-psychology.com>
-Depends: R (>= 1.8.0), nlme
-Suggests: MASS
-Description: An S3 class with a method for calculates the bidimensional regression between two 2D configurations following the approach by Tobler (1965).
-License: GPL (>= 2)
-URL: http://www.r-project.org, http://www.experimental-psychology.de
-BugReports: http://pkgname.bugtracker.url
-Packaged: 2014-03-22 13:00:27 UTC; CCC
+Version: 2.0.0
+Date: 2018-05-09
+Title: Calculates the Bidimensional Regression Between Two 2D
+        Configurations
+Authors@R: c(
+  person("Claus-Christian", "Carbon", role = c("aut"), email ="ccc@experimental-psychology.com"),
+  person("Alexander (Sasha)", "Pastukhov", role = c("cre", "ctb"), email ="pastukhov.alexander@gmail.com"))
+Imports: Formula, methods
+Depends: R (>= 1.8.0)
+Description: Calculates the bidimensional regression between two 2D configurations following the approach by Tobler (1965).
+License: GPL-3
+URL: https://CRAN.R-project.org/package=BiDimRegression
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-03-22 16:51:38
+RoxygenNote: 6.0.1
+LazyData: true
+Suggests: testthat, knitr, rmarkdown, dplyr, ggplot2
+VignetteBuilder: knitr
+Packaged: 2018-05-09 10:31:52 UTC; sasha
+Author: Claus-Christian Carbon [aut],
+  Alexander (Sasha) Pastukhov [cre, ctb]
+Maintainer: Alexander (Sasha) Pastukhov <pastukhov.alexander@gmail.com>
+Date/Publication: 2018-05-16 11:32:59 UTC
