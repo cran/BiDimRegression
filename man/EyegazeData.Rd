@@ -4,7 +4,8 @@
 \name{EyegazeData}
 \alias{EyegazeData}
 \title{Eye gaze calibration data}
-\format{A data frame with 365 rows and 6 variables:
+\format{
+A data frame with 365 rows and 6 variables:
 \describe{
   \item{time}{sample timestamp, in milliseconds}
   \item{x, y}{recorded gaze, in internal eye tracker units}
@@ -12,12 +13,13 @@
   \item{target}{index of the target within the sequence}
 
   ...
-}}
+}
+}
 \usage{
 EyegazeData
 }
 \description{
 A dataset containing a monocular eye gaze recording with calibration sequence.
-Courtesy of Bamberger Baby Institut: \href{https://www.uni-bamberg.de/entwicklungspsychologie/transfer/unsichtbar-fuer-bambi/babyforschung-bambi/}{BamBI}.
+Courtesy of Bamberger Baby Institut (BamBI).
 }
 \keyword{datasets}
